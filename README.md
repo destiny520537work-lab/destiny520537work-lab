@@ -2,9 +2,11 @@
 
 🇨🇳 → 🇬🇧  量化 · AI · 数据分析
 
-文转码，拿下十几个CS硕offer  
+文转码，拿下十几个CS硕offer
+HK AI engineer intern实习中 /ᐠ - ˕ -マ Ⳋ
+
 Google Hackathon 从0部署了一个完整网站  
-AI agent engineer，求职中
+AI agent｜engineer求职中
 
 ---
 

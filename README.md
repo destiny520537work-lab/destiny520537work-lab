@@ -12,6 +12,7 @@ AI agent engineer，求职中
 
 - 🔭 [stock-skill](https://github.com/destiny520537work-lab/stock-skill) — AI驱动的美股研究框架 · ⭐33【目前由于一些原因设置成private，等我更新第三版】
 - 🤖 Claude-based agent pipeline · mem持久化 · 短期记忆GAP
+- ❤️ https://github.com/destiny520537work-lab   · 我的主页，欢迎fo
 
 **Into**
 

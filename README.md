@@ -13,8 +13,8 @@ AI agent｜engineer求职中
 
 - 🫶 [stock-skill](https://github.com/destiny520537work-lab/stock-skill) — AI驱动的美股研究框架 · ⭐33+7【目前由于某些原因（你们知道的）设置成private，等我更新第三版】
 - 😼 [fate-skill](https://github.com/destiny520537work-lab/fate-skill) —— 第三版，由于某些原因经过了一些虚构处理，skills已更新，增加具体行为实操框架，比前两版好用更多
-- ❤️ https://github.com/destiny520537work-lab   · 我的主页，欢迎fo ⭐5
-≈ 👾 [discord交流](https://discord.gg/RWqnQW4xyS) 
+- ❤️ https://github.com/destiny520537work-lab   · 我的主页，欢迎fo ⭐5 
+- 👾 [discord交流](https://discord.gg/RWqnQW4xyS) 
 
 **Other**
 - 🤖 [Claude-agent](https://github.com/destiny520537work-lab/claude-memory-guide) · cc记忆持久化 · 省60%token用量

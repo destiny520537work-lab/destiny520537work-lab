@@ -30,3 +30,10 @@ AI agent｜engineer求职中
 
 📮 fatestaywork@outlook.com
 
+## Star History
+
+---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=destiny520537work-lab/destiny520537work-lab&type=Date)](https://star-history.com/#destiny520537work-lab/destiny520537work-lab&Date)
+
+

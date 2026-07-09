@@ -18,7 +18,7 @@ AI agent｜engineer求职中
 
 **使用和思考**
 - 🤖 [Claude-agent](https://github.com/destiny520537work-lab/claude-memory-guide) · cc记忆持久化 · 省60%token用量
-- 🍞 [Agent- Overview](https://github.com/destiny520537work-lab/Agent-Overview)  · AI agent最新概览和思考 · 方向
+- 🍞 [Agent-Overview](https://github.com/destiny520537work-lab/Agent-Overview)  · AI agent最新概览和思考 · 方向
 
 **自存repo和工具🔧**
 - 🔭 [xhs一些自用工具](https://github.com/destiny520537work-lab/xhs-creator-toolkit)

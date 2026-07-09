@@ -16,8 +16,9 @@ AI agent｜engineer求职中
 - ❤️ https://github.com/destiny520537work-lab   · 我的主页，欢迎fo ⭐52
 - 👾 [discord交流](https://discord.gg/RWqnQW4xyS)   · 可以唠嗑聊天，实时更新都会同步在这里，xhs群容易禁言。还会不定时掉落自学指南【比如新更的视频就发不出去】
 
-**Other**
+**使用和思考**
 - 🤖 [Claude-agent](https://github.com/destiny520537work-lab/claude-memory-guide) · cc记忆持久化 · 省60%token用量
+- 🍞 [Agent- Overview](https://github.com/destiny520537work-lab/Agent-Overview)  · AI agent最新概览和思考 · 方向
 
 **自存repo和工具🔧**
 - 🔭 [xhs一些自用工具](https://github.com/destiny520537work-lab/xhs-creator-toolkit)
